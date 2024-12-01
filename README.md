@@ -46,9 +46,8 @@ El script pedirá al usuario que ingrese los siguientes datos:
  - Nivel de creatividad (0 a 1): 0.8
 
 
-from IPython.display import Image, display
+<img width="795" alt="Captura de pantalla 2024-12-01 200715" src="https://github.com/user-attachments/assets/022510b8-ff76-49a3-8654-21f7820ddc26">
 
-display(Image(filename='/content/sample_data/Captura de pantalla 2024-12-01 200715.png'))
 
 # Realización del proyecto
 
@@ -77,15 +76,11 @@ Creamos un script que pida al usuario los siguientes datos:
 
 ### Historia con temperatura = 1
 
-
-
-
-display(Image(filename='/content/sample_data/Captura de pantalla 2024-12-01 202200.png'))
+<img width="793" alt="Captura de pantalla 2024-12-01 202200" src="https://github.com/user-attachments/assets/73b744cb-025a-4a32-a3cf-10a5809b1b68">
 
 ### Historia con temperatura = 0
 
-
-display(Image(filename='/content/sample_data/Captura de pantalla 2024-12-01 202856.png '))
+<img width="794" alt="Captura de pantalla 2024-12-01 202856" src="https://github.com/user-attachments/assets/41f647cd-daa5-4b44-8878-eb75d41b2ff8">
 
 # Conclusiones
 
